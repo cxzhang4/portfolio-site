@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1598302623376.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1124055981",
+    "id" : "C6EFD78F",
+    "lastKnownWriteTime" : 1598302621,
+    "last_content_update" : 1598302621,
+    "path" : "C:/Users/carso/personalsite/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
